@@ -1,0 +1,9 @@
+# Images path
+train: D:\HAGRID\HAGRID_YOLO\images\train\
+val: D:\HAGRID\HAGRID_YOLO\images\val\
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['hand']
